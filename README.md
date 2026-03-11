@@ -68,6 +68,10 @@ plt.title("Partial Autocorrelation - ARMA(2,2)")
 plt.show()
 ```
 OUTPUT:
+
+ORIGINAL DATA:
+<img width="1001" height="547" alt="image" src="https://github.com/user-attachments/assets/db732155-0d0f-435a-ba60-5bf245de2e76" />
+
 SIMULATED ARMA(1,1) PROCESS:
 <img width="997" height="528" alt="image" src="https://github.com/user-attachments/assets/538fc623-5cbe-4b64-a036-ba8e6518a793" />
 
